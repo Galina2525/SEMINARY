@@ -36,5 +36,10 @@ if(number <=7 & number >=1)
     if (number == 7)
     {   
         Console.WriteLine("Sunday");
+    
     }
+}
+else
+{
+    Console.WriteLine("Das no exist this weekday");
 }
