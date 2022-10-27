@@ -1,0 +1,5 @@
+C:\Users\korol\Desktop\SEMINARY\Task6Homework\obj\Debug\net6.0\Task6Homework.csproj.AssemblyReference.cache
+C:\Users\korol\Desktop\SEMINARY\Task6Homework\obj\Debug\net6.0\Task6Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korol\Desktop\SEMINARY\Task6Homework\obj\Debug\net6.0\Task6Homework.AssemblyInfoInputs.cache
+C:\Users\korol\Desktop\SEMINARY\Task6Homework\obj\Debug\net6.0\Task6Homework.AssemblyInfo.cs
+C:\Users\korol\Desktop\SEMINARY\Task6Homework\obj\Debug\net6.0\Task6Homework.csproj.CoreCompileInputs.cache
