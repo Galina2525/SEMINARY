@@ -1,0 +1,15 @@
+C:\Users\korol\Desktop\SEMINARY\Task5Homework\bin\Debug\net6.0\Task5Homework.exe
+C:\Users\korol\Desktop\SEMINARY\Task5Homework\bin\Debug\net6.0\Task5Homework.deps.json
+C:\Users\korol\Desktop\SEMINARY\Task5Homework\bin\Debug\net6.0\Task5Homework.runtimeconfig.json
+C:\Users\korol\Desktop\SEMINARY\Task5Homework\bin\Debug\net6.0\Task5Homework.dll
+C:\Users\korol\Desktop\SEMINARY\Task5Homework\bin\Debug\net6.0\Task5Homework.pdb
+C:\Users\korol\Desktop\SEMINARY\Task5Homework\obj\Debug\net6.0\Task5Homework.csproj.AssemblyReference.cache
+C:\Users\korol\Desktop\SEMINARY\Task5Homework\obj\Debug\net6.0\Task5Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korol\Desktop\SEMINARY\Task5Homework\obj\Debug\net6.0\Task5Homework.AssemblyInfoInputs.cache
+C:\Users\korol\Desktop\SEMINARY\Task5Homework\obj\Debug\net6.0\Task5Homework.AssemblyInfo.cs
+C:\Users\korol\Desktop\SEMINARY\Task5Homework\obj\Debug\net6.0\Task5Homework.csproj.CoreCompileInputs.cache
+C:\Users\korol\Desktop\SEMINARY\Task5Homework\obj\Debug\net6.0\Task5Homework.dll
+C:\Users\korol\Desktop\SEMINARY\Task5Homework\obj\Debug\net6.0\refint\Task5Homework.dll
+C:\Users\korol\Desktop\SEMINARY\Task5Homework\obj\Debug\net6.0\Task5Homework.pdb
+C:\Users\korol\Desktop\SEMINARY\Task5Homework\obj\Debug\net6.0\Task5Homework.genruntimeconfig.cache
+C:\Users\korol\Desktop\SEMINARY\Task5Homework\obj\Debug\net6.0\ref\Task5Homework.dll
