@@ -1,0 +1,15 @@
+C:\Users\korol\Desktop\SEMINARY\Task7Homewok\bin\Debug\net6.0\Task7Homewok.exe
+C:\Users\korol\Desktop\SEMINARY\Task7Homewok\bin\Debug\net6.0\Task7Homewok.deps.json
+C:\Users\korol\Desktop\SEMINARY\Task7Homewok\bin\Debug\net6.0\Task7Homewok.runtimeconfig.json
+C:\Users\korol\Desktop\SEMINARY\Task7Homewok\bin\Debug\net6.0\Task7Homewok.dll
+C:\Users\korol\Desktop\SEMINARY\Task7Homewok\bin\Debug\net6.0\Task7Homewok.pdb
+C:\Users\korol\Desktop\SEMINARY\Task7Homewok\obj\Debug\net6.0\Task7Homewok.csproj.AssemblyReference.cache
+C:\Users\korol\Desktop\SEMINARY\Task7Homewok\obj\Debug\net6.0\Task7Homewok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korol\Desktop\SEMINARY\Task7Homewok\obj\Debug\net6.0\Task7Homewok.AssemblyInfoInputs.cache
+C:\Users\korol\Desktop\SEMINARY\Task7Homewok\obj\Debug\net6.0\Task7Homewok.AssemblyInfo.cs
+C:\Users\korol\Desktop\SEMINARY\Task7Homewok\obj\Debug\net6.0\Task7Homewok.csproj.CoreCompileInputs.cache
+C:\Users\korol\Desktop\SEMINARY\Task7Homewok\obj\Debug\net6.0\Task7Homewok.dll
+C:\Users\korol\Desktop\SEMINARY\Task7Homewok\obj\Debug\net6.0\refint\Task7Homewok.dll
+C:\Users\korol\Desktop\SEMINARY\Task7Homewok\obj\Debug\net6.0\Task7Homewok.pdb
+C:\Users\korol\Desktop\SEMINARY\Task7Homewok\obj\Debug\net6.0\Task7Homewok.genruntimeconfig.cache
+C:\Users\korol\Desktop\SEMINARY\Task7Homewok\obj\Debug\net6.0\ref\Task7Homewok.dll
