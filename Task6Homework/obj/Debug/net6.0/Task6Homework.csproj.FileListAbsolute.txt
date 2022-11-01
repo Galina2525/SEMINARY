@@ -3,3 +3,13 @@ C:\Users\korol\Desktop\SEMINARY\Task6Homework\obj\Debug\net6.0\Task6Homework.Gen
 C:\Users\korol\Desktop\SEMINARY\Task6Homework\obj\Debug\net6.0\Task6Homework.AssemblyInfoInputs.cache
 C:\Users\korol\Desktop\SEMINARY\Task6Homework\obj\Debug\net6.0\Task6Homework.AssemblyInfo.cs
 C:\Users\korol\Desktop\SEMINARY\Task6Homework\obj\Debug\net6.0\Task6Homework.csproj.CoreCompileInputs.cache
+C:\Users\korol\Desktop\SEMINARY\Task6Homework\bin\Debug\net6.0\Task6Homework.exe
+C:\Users\korol\Desktop\SEMINARY\Task6Homework\bin\Debug\net6.0\Task6Homework.deps.json
+C:\Users\korol\Desktop\SEMINARY\Task6Homework\bin\Debug\net6.0\Task6Homework.runtimeconfig.json
+C:\Users\korol\Desktop\SEMINARY\Task6Homework\bin\Debug\net6.0\Task6Homework.dll
+C:\Users\korol\Desktop\SEMINARY\Task6Homework\bin\Debug\net6.0\Task6Homework.pdb
+C:\Users\korol\Desktop\SEMINARY\Task6Homework\obj\Debug\net6.0\Task6Homework.dll
+C:\Users\korol\Desktop\SEMINARY\Task6Homework\obj\Debug\net6.0\refint\Task6Homework.dll
+C:\Users\korol\Desktop\SEMINARY\Task6Homework\obj\Debug\net6.0\Task6Homework.pdb
+C:\Users\korol\Desktop\SEMINARY\Task6Homework\obj\Debug\net6.0\Task6Homework.genruntimeconfig.cache
+C:\Users\korol\Desktop\SEMINARY\Task6Homework\obj\Debug\net6.0\ref\Task6Homework.dll

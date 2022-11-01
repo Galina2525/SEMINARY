@@ -9,12 +9,13 @@ int numberB= Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Enter namberC ");
 int numberC = Convert.ToInt32(Console.ReadLine());
 
-numberA = Max;
-if(numberB > Max){
-    Max = numberB;
+int max = numberA;
+if(numberB > max){
+    max = numberB;
 }
-if(numberC > Max){
-    Max = numberC;
+if(numberC > max){
+    max = numberC;
 }
 
-Console.WriteLine(Max);
+Console.Write("max = ");
+Console.WriteLine(max);
