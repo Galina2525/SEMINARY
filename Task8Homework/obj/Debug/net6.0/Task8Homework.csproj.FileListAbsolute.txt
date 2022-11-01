@@ -1,0 +1,15 @@
+C:\Users\korol\Desktop\SEMINARY\Task8Homework\obj\Debug\net6.0\Task8Homework.csproj.AssemblyReference.cache
+C:\Users\korol\Desktop\SEMINARY\Task8Homework\obj\Debug\net6.0\Task8Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korol\Desktop\SEMINARY\Task8Homework\obj\Debug\net6.0\Task8Homework.AssemblyInfoInputs.cache
+C:\Users\korol\Desktop\SEMINARY\Task8Homework\obj\Debug\net6.0\Task8Homework.AssemblyInfo.cs
+C:\Users\korol\Desktop\SEMINARY\Task8Homework\obj\Debug\net6.0\Task8Homework.csproj.CoreCompileInputs.cache
+C:\Users\korol\Desktop\SEMINARY\Task8Homework\bin\Debug\net6.0\Task8Homework.exe
+C:\Users\korol\Desktop\SEMINARY\Task8Homework\bin\Debug\net6.0\Task8Homework.deps.json
+C:\Users\korol\Desktop\SEMINARY\Task8Homework\bin\Debug\net6.0\Task8Homework.runtimeconfig.json
+C:\Users\korol\Desktop\SEMINARY\Task8Homework\bin\Debug\net6.0\Task8Homework.dll
+C:\Users\korol\Desktop\SEMINARY\Task8Homework\bin\Debug\net6.0\Task8Homework.pdb
+C:\Users\korol\Desktop\SEMINARY\Task8Homework\obj\Debug\net6.0\Task8Homework.dll
+C:\Users\korol\Desktop\SEMINARY\Task8Homework\obj\Debug\net6.0\refint\Task8Homework.dll
+C:\Users\korol\Desktop\SEMINARY\Task8Homework\obj\Debug\net6.0\Task8Homework.pdb
+C:\Users\korol\Desktop\SEMINARY\Task8Homework\obj\Debug\net6.0\Task8Homework.genruntimeconfig.cache
+C:\Users\korol\Desktop\SEMINARY\Task8Homework\obj\Debug\net6.0\ref\Task8Homework.dll
