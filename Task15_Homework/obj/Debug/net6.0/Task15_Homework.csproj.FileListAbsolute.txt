@@ -1,0 +1,15 @@
+C:\Users\korol\Desktop\SEMINARY\Task15_Homework\obj\Debug\net6.0\Task15_Homework.csproj.AssemblyReference.cache
+C:\Users\korol\Desktop\SEMINARY\Task15_Homework\obj\Debug\net6.0\Task15_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korol\Desktop\SEMINARY\Task15_Homework\obj\Debug\net6.0\Task15_Homework.AssemblyInfoInputs.cache
+C:\Users\korol\Desktop\SEMINARY\Task15_Homework\obj\Debug\net6.0\Task15_Homework.AssemblyInfo.cs
+C:\Users\korol\Desktop\SEMINARY\Task15_Homework\obj\Debug\net6.0\Task15_Homework.csproj.CoreCompileInputs.cache
+C:\Users\korol\Desktop\SEMINARY\Task15_Homework\bin\Debug\net6.0\Task15_Homework.exe
+C:\Users\korol\Desktop\SEMINARY\Task15_Homework\bin\Debug\net6.0\Task15_Homework.deps.json
+C:\Users\korol\Desktop\SEMINARY\Task15_Homework\bin\Debug\net6.0\Task15_Homework.runtimeconfig.json
+C:\Users\korol\Desktop\SEMINARY\Task15_Homework\bin\Debug\net6.0\Task15_Homework.dll
+C:\Users\korol\Desktop\SEMINARY\Task15_Homework\bin\Debug\net6.0\Task15_Homework.pdb
+C:\Users\korol\Desktop\SEMINARY\Task15_Homework\obj\Debug\net6.0\Task15_Homework.dll
+C:\Users\korol\Desktop\SEMINARY\Task15_Homework\obj\Debug\net6.0\refint\Task15_Homework.dll
+C:\Users\korol\Desktop\SEMINARY\Task15_Homework\obj\Debug\net6.0\Task15_Homework.pdb
+C:\Users\korol\Desktop\SEMINARY\Task15_Homework\obj\Debug\net6.0\Task15_Homework.genruntimeconfig.cache
+C:\Users\korol\Desktop\SEMINARY\Task15_Homework\obj\Debug\net6.0\ref\Task15_Homework.dll
